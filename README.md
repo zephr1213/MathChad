@@ -1,2 +1,2 @@
 # MathChad
-its pro
+open source creative commons attribution math solver
